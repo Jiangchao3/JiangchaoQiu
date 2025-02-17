@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jiangchao Qiu"
-  pronouns         :  "He/Him"  
+  pronouns         : # "He/Him"  
   bio              : "Postdoc Associate, MIT Department of Earth, Atmospheric, and Planetary Sciences"
   location         : "Cambridge, MA"
   employer         : ""
