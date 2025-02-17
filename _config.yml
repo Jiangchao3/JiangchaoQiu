@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Jiangchao Qiu"
+  pronouns         :  "He/Him"  
+  bio              : "Postdoc Associate, MIT Department of Earth, Atmospheric, and Planetary Sciences"
+  location         : "Cambridge, MA"
+  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "qiujch24@mit.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
